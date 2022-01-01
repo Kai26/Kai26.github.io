@@ -2,15 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kai26.github.io/</id>
     <title></title>
-    <updated>2022-01-01T15:30:26.841Z</updated>
+    <updated>2022-01-01T16:42:15.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kai26.github.io/"/>
     <link rel="self" href="https://kai26.github.io/atom.xml"/>
-    <subtitle>仅此而已
-</subtitle>
+    <subtitle>无聊的人生</subtitle>
     <logo>https://kai26.github.io/images/avatar.png</logo>
     <icon>https://kai26.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, </rights>
+    <entry>
+        <title type="html"><![CDATA[First Blog]]></title>
+        <id>https://kai26.github.io/post/first-blog/</id>
+        <link href="https://kai26.github.io/post/first-blog/">
+        </link>
+        <updated>2022-01-01T16:33:46.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="博客的第一篇文章也作为2021年的总结">博客的第一篇文章，也作为2021年的总结</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="博客的第一篇文章也作为2021年的总结">博客的第一篇文章，也作为2021年的总结</h2>
+<!-- more -->
+<p>我并不是一个擅长用文字的人，在写作过程中总是有逻辑问题。如果你愿意看我阐述我的一字一句，真诚感谢。</p>
+<p>2022年伊始，我还没有做任何计划，不然也不会在这个点写东西了 😃</p>
+<p>回顾2021年，对我来说是一个无厘头的一年。看着曾经的同学一个个都拿到了证书、奖学金等，而自己还在键盘上敲打。自从2020年末选择从原本的大学离开出国留学，我不曾一次怀疑自己的选择是否正确。2020年初，疫情横生，把所有人“软禁”，网课、网上办公发展迅速。</p>
+<p>刚开始在家上课那简直快乐的不行，不用面对老师，上课摸鱼、考试借鉴，觉得网络真是救世主，如果一直上网课就好了。结果上了一个学期。长时间坐在电脑前，又因为疫情，导致我本来就不太舒服的腰更不舒服了...在家有父母，起床就能吃上早饭，上完课就吃午饭，下午结束就晚饭了……好像一天的记忆点除了上课就剩吃饭了。</p>
+<p>而2020年9月再次返校，因为学校的某些原因，选择了出国，但反复的疫情导致出国无望，辗转国外大学的网络课堂。本来在家待了快一年就挺难受的了，结果还得继续。</p>
+<p>2021年，崭新的一年，我想我可以在3月出国了吧，忘记是国内疫情还是国外疫情，再次阻挡了出国的脚步。我硬生生在家又待了一年。这一年，学习不理想，思想不集中，继续摸鱼...</p>
+<p>而在这一年，在过度接触互联网的情况下，碎片的学到了一些网络信息，学到了一些使用计算机的小技巧，学到了深度科学上网的知识等等等等等等。在年末，趁我还没毕业，做了一个最大的决定就是，作为小白，学习一种代码，也许能在找工作时有帮助，毕竟技多不压身，如果不压迫自己，赶不上优秀的人，只会让自己流淌在人群中 (其实吧说实话是自己想玩一些代码 以及想看懂代码 互联网时代 你啥也不懂 也像个“文”盲)。</p>
+<p>2022年，又是崭新的一年，立Flag已经不是什么稀奇的事情了，主要是想改正自己</p>
+<p>2022 To Do List :</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6178220"><label class="task-list-item-label" for="task-item-6178220"> 改掉拖延</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7056610"><label class="task-list-item-label" for="task-item-7056610"> 学完基础 Python</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5238089"><label class="task-list-item-label" for="task-item-5238089"> 努力赚钱</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1008134"><label class="task-list-item-label" for="task-item-1008134"> 好好生活</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2236258"><label class="task-list-item-label" for="task-item-2236258"> 撰写博客</label></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kai26.github.io/post/hello-gridea/</id>
