@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kai26.github.io/</id>
-    <title></title>
-    <updated>2022-01-01T17:39:29.753Z</updated>
+    <title>wk&apos;s blog</title>
+    <updated>2022-01-03T06:07:39.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kai26.github.io/"/>
     <link rel="self" href="https://kai26.github.io/atom.xml"/>
     <subtitle>无聊的人生</subtitle>
     <logo>https://kai26.github.io/images/avatar.png</logo>
     <icon>https://kai26.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, </rights>
+    <rights>All rights reserved 2022, wk&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[First Blog]]></title>
         <id>https://kai26.github.io/first-blog/</id>
@@ -31,11 +31,11 @@
 <p>2022年，又是崭新的一年，立Flag已经不是什么稀奇的事情了，主要是想改正自己</p>
 <p>2022 To Do List :</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8724997"><label class="task-list-item-label" for="task-item-8724997"> 改掉拖延</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4795937"><label class="task-list-item-label" for="task-item-4795937"> 学完基础 Python</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6204625"><label class="task-list-item-label" for="task-item-6204625"> 努力赚钱</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1415565"><label class="task-list-item-label" for="task-item-1415565"> 好好生活</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7879896"><label class="task-list-item-label" for="task-item-7879896"> 撰写博客</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1668475"><label class="task-list-item-label" for="task-item-1668475"> 改掉拖延</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2810181"><label class="task-list-item-label" for="task-item-2810181"> 学完基础 Python</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9091790"><label class="task-list-item-label" for="task-item-9091790"> 努力赚钱</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2266313"><label class="task-list-item-label" for="task-item-2266313"> 好好生活</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7917231"><label class="task-list-item-label" for="task-item-7917231"> 撰写博客</label></li>
 </ul>
 ]]></content>
     </entry>
