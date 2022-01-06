@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kai26.github.io/</id>
     <title>wkuio</title>
-    <updated>2022-01-06T09:25:15.439Z</updated>
+    <updated>2022-01-06T09:33:48.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kai26.github.io/"/>
     <link rel="self" href="https://kai26.github.io/atom.xml"/>
@@ -31,11 +31,11 @@
 <p>2022年，又是崭新的一年，立Flag已经不是什么稀奇的事情了，主要是想改正自己</p>
 <p>2022 To Do List :</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9957931"><label class="task-list-item-label" for="task-item-9957931"> 改掉拖延</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5587697"><label class="task-list-item-label" for="task-item-5587697"> 学完基础 Python</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5809330"><label class="task-list-item-label" for="task-item-5809330"> 努力赚钱</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3729206"><label class="task-list-item-label" for="task-item-3729206"> 好好生活</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8973189"><label class="task-list-item-label" for="task-item-8973189"> 撰写博客</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2967429"><label class="task-list-item-label" for="task-item-2967429"> 改掉拖延</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-709658"><label class="task-list-item-label" for="task-item-709658"> 学完基础 Python</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4550844"><label class="task-list-item-label" for="task-item-4550844"> 努力赚钱</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2851619"><label class="task-list-item-label" for="task-item-2851619"> 好好生活</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4121504"><label class="task-list-item-label" for="task-item-4121504"> 撰写博客</label></li>
 </ul>
 ]]></content>
     </entry>
